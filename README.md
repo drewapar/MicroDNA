@@ -21,11 +21,6 @@ Then, make sure the BAM and FASTA folders from the shared Google Drive are uploa
 
 
 ### Example (using given data files)
-First, ensure pysam is installed:
-```
-$ pip install pysam
-```
-To output results:
 ```
 $ python microDNA.py
 ```
