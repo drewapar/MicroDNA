@@ -1,0 +1,4 @@
+Make sure to upload BAM and FASTA (.fna) files from shared Google Drive:
+
+SRR413984.sorted.NC_000001.10.bam
+GCF_000001405.13_GRCh37_genomic.NC_000001.10.fna
