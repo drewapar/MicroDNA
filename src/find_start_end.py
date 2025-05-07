@@ -53,7 +53,7 @@ def get_consensus(seq_list):
             S += mcc
     return S
 
-def find_junctions(bam_file = "data/SRR413984.sorted.NC_000001.10.bam", ):
+def find_junctions(bam_file = "data/SRR413984.sorted.NC_000001.10.bam"):
     with pysam.AlignmentFile(bam_file, "rb") as bam:
         start_window = []
         end_window = [] 
