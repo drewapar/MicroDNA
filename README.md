@@ -17,7 +17,7 @@ First, ensure pysam is installed:
 $ pip install pysam
 ```
 
-Then, make sure the BAM and FASTA folders from the shared Google Drive are uploaded into the /data/ folder
+Then, make sure the BAM and FASTA folders from the shared Google Drive are uploaded into the `/data` folder
 
 
 ### Example (using given data files)
